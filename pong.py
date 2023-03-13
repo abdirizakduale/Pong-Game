@@ -15,7 +15,7 @@ PADDLE_WIDTH, PADDLE_HEIGHT = 20, 100
 BALL_RADIUS = 7
 
 SCORE_FONT =pygame.font.SysFont("Cordia New", 50)
-WINNING_SCORE = 1
+WINNING_SCORE = 7
 
 class Paddle:
     COLOR = WHITE
@@ -182,4 +182,4 @@ def main():
     pygame.quit()
 
 if __name__ == '__main__':
-    main()
+    main() 
