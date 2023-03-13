@@ -1,0 +1,8 @@
+"workbench.colorTheme": "Tokyo Night Storm",
+"[python]": {
+    "editor.formatOnType": true
+},
+
+"vscode-neovim.useWSL": true,
+"vscode-neovim.neovimExecutablePaths.linux": "/home/duale/.local/bin",
+"vscode-neovim.neovimInitVimPaths.darwin": "$HOME/.config/nvim/init.vim",
