@@ -1,4 +1,4 @@
-**Pong Game in Python - README**
+#**Pong Game in Python - README**
 
 This repository contains a Python implementation of the classic Pong game using the Pygame library. The game is a two-player arcade game where each player controls a paddle to hit a ball back and forth. The goal is to prevent the ball from reaching your side of the screen. The game features include paddle movement, ball physics, scoring, and a winning condition.
 
