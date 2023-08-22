@@ -15,7 +15,7 @@ This repository contains a Python implementation of the classic Pong game using 
 4. Open a terminal or command prompt and navigate to the directory containing the script.
 5. Run the game using the following command:
    ```
-   python pong_game.py
+   python3 pong.py
    ```
 6. The game window will open, and you can control the paddles using the W and S keys for the left player and the UP and DOWN arrow keys for the right player.
 
